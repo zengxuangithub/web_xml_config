@@ -6,7 +6,7 @@
 
 ```
 <servlet>
-
+    <!--举例几个servlet的配置-->
     <servlet-name>timeServlet</servlet-name>
     <servlet-class>test.timeServlet</servlet-class>
     <!--配置应用启动时 创建该servlet实例，也可以通过Annotation注解的方式配置servlet-->
